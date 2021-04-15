@@ -1,5 +1,5 @@
-# bootstrap-boilerplate
-a boilerplate for bootstrap projects.
+# bootstrap-collaboration
+bootsrap collaboration project.
 
 ## Running On
 This project is using 
