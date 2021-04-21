@@ -1,18 +1,15 @@
 # bootstrap-collaboration
-bootsrap collaboration project.
+Geekwise Mobile-development github/css/html/bootstrap project.
 
 ## Running On
-This project is using 
+This project is using... 
 - [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [Font Awesome {**Free tier**}](https://fontawesome.com/icons?d=gallery&p=2&m=free)
 
 ### Theme
 
-Add your theme here.
+The theme of this collaboration project is based off of the retro Windows 92 aesthetic.
 
-### Third Party tools/packages 
 
-Add your packages and tools here!
 
 
 
